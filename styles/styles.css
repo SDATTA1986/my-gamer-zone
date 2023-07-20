@@ -11,7 +11,7 @@
 
 /* navbar styles */
 nav {
-    max-width: 1920px;
+    /* max-width: fit-content; */
     height: 130px;
     background: #FFF;
     box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
@@ -84,7 +84,7 @@ nav h3, footer h3{
 /* Banner style starts */
 
 .banner {
-    max-width: 1920px;
+    /* max-width: 1920px; */
     /* height: 1000px; */
     /* border: 5px solid red; */
     display: grid;
@@ -171,7 +171,7 @@ nav h3, footer h3{
 /* online games styles */
 .online-games {
     /* border: 2px solid red; */
-    max-width: 1920px;
+    /* max-width: 1920px; */
     margin: 50px 100px 50px;
 
 }
@@ -283,7 +283,7 @@ nav h3, footer h3{
 
 /* icon style begins */
 .icon-info {
-    max-width: 1920px;
+    /* max-width: 1920px; */
     /* border: 2px solid red; */
     background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
 
@@ -321,7 +321,7 @@ nav h3, footer h3{
 
 /* footer style begins */
 footer {
-    max-width: 1920px;
+    /* max-width: 1920px; */
     color: #FFF;
     /* border: 1px solid white; */
     
