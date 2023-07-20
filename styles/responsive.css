@@ -22,7 +22,8 @@
     }
     .banner{
         flex-direction:column-reverse;
-        padding-left: 30px;
+        /* padding-left: 30px; */
+        display:flex;
     }
     .banner-img{
         width:100%;
@@ -34,18 +35,3 @@
     }
 }
 
-/* @media screen and (min-width:576px) and (max-width:992px){
-    .logo-container{
-        padding-left: 45px;
-    }
-    .menu-container{
-        padding-right: 20px;
-        text-align: center;
-    }
-    .menu-container a{
-        font-size: 10px;
-    }
-    .follow-us-container{
-        width:150px;
-    }
-} */
